@@ -1,0 +1,286 @@
+🧠 IDEA PRINCIPAL
+En las sentencias casi nunca aparece literalmente “falso autónomo”.
+Tienes que buscar indicios jurídicos indirectos.
+
+🔍 🔑 QUÉ PALABRAS BUSCAR EN LOS PDF (CLAVE REAL)
+1. 🧾 Términos DIRECTOS de autonomía
+Estos son los más importantes:
+
+
+“trabajador autónomo”
+
+
+“autónomo”
+
+
+“RETA” (Régimen Especial de Trabajadores Autónomos)
+
+
+“alta en el RETA”
+
+
+“contrato mercantil”
+
+
+“arrendamiento de servicios”
+
+
+“TRADE” (autónomo económicamente dependiente)
+
+
+👉 Si NO aparece nada de esto → casi seguro NO es falso autónomo
+
+2. ⚖️ Términos de conflicto (MUY IMPORTANTES)
+Estos indican que el juez está analizando si es falso autónomo:
+
+
+“relación laboral vs mercantil”
+
+
+“naturaleza de la relación”
+
+
+“calificación jurídica de la relación”
+
+
+“laboralidad”
+
+
+“encuadramiento en Seguridad Social”
+
+
+👉 Esto es la señal más clara de que estás ante un caso relevante
+
+3. 🧠 Palabras doctrinales (las más fiables)
+Los jueces SIEMPRE usan estas:
+
+
+“ajenidad”
+
+
+“dependencia”
+
+
+“poder de dirección”
+
+
+“organización empresarial”
+
+
+“integración en la empresa”
+
+
+👉 Si ves estas → 90% probabilidad de falso autónomo
+
+4. 📲 Contexto típico (plataformas o servicios)
+Muy frecuente en sentencias modernas:
+
+
+“plataforma digital”
+
+
+“app”
+
+
+“repartidor”
+
+
+“rider”
+
+
+“Glovo”, “Deliveroo”, “Uber”
+
+
+
+5. 💰 Elementos económicos clave
+
+
+“facturación”
+
+
+“emisión de facturas”
+
+
+“precio fijado por la empresa”
+
+
+“clientes de la empresa”
+
+
+“intermediación”
+
+
+
+🚫 🔴 QUÉ DESCARTAR (como el PDF que me enviaste)
+Si ves esto, NO es falso autónomo:
+
+
+“sin contrato”
+
+
+“sin alta en Seguridad Social”
+
+
+“trabajadores extranjeros sin permiso”
+
+
+“art. 311 Código Penal”
+
+
+👉 Eso es:
+➡️ empleo ilegal, no falso autónomo
+
+🧪 🔍 REGLA RÁPIDA (para tu clasificador)
+Puedes usar esto:
+SI aparece:  autónomo OR RETA OR contrato mercantilY además:  ajenidad OR dependencia OR relación laboral→ POSIBLE FALSO AUTÓNOMOSI aparece:  sin contrato OR sin alta OR trabajador irregular→ TRABAJO ILEGAL (descartar)
+
+🧠 TIP PRO (muy importante)
+El patrón más fiable en sentencias:
+👉 El juez SIEMPRE formula algo así:
+
+“la cuestión a resolver es determinar si la relación es laboral o mercantil”
+
+Si ves esa frase (o parecida) → 🎯 estás en el caso correcto
+
+🚀 Si quieres subir de nivel
+Puedo darte:
+
+
+✅ un script para analizar PDFs automáticamente
+
+
+✅ expresiones regex listas para usar
+
+
+✅ un modelo tipo scoring (0–100 probabilidad falso autónomo)
+
+
+Solo dime 👍
+
+
+-----------------
+
+Voy a analizar el PDF exactamente como lo haría un experto en laboral + clasificación automática, siguiendo un esquema muy concreto. Te lo explico claro 👇
+
+🧠 🔍 QUÉ ANALIZO EN EL PDF
+1. ⚖️ Tipo de jurisdicción (primer filtro)
+
+Lo primero que miro:
+
+¿Es social/laboral?
+¿Es penal (como el que me mandaste)?
+¿Es contencioso o civil?
+
+👉 Si NO es laboral → normalmente descarto falso autónomo
+
+2. 🧾 Tipo de relación jurídica
+
+Busco frases como:
+
+“contrato mercantil”
+“trabajador autónomo”
+“alta en RETA”
+“arrendamiento de servicios”
+
+👉 Esto me dice si hay apariencia de autonomía
+
+3. ⚔️ Conflicto clave (el corazón del análisis)
+
+Busco si el juez está resolviendo esto:
+
+“si la relación es laboral o mercantil”
+
+O expresiones similares:
+
+“naturaleza de la relación”
+“calificación jurídica”
+“existencia de relación laboral”
+
+👉 Si esto aparece → 🎯 caso potencial de falso autónomo
+
+4. 🧠 Test de laboralidad (lo más importante)
+
+Analizo si aparecen los 4 pilares jurídicos:
+
+✔ Dependencia
+horarios fijados
+órdenes
+control
+✔ Ajenidad
+salario fijo
+clientes de la empresa
+precios fijados
+✔ Integración
+dentro de la organización
+uso de medios de la empresa
+✔ Riesgo
+quién asume pérdidas/beneficios
+5. 📊 Hechos concretos (no solo teoría)
+
+Voy a los HECHOS PROBADOS y busco:
+
+quién organiza el trabajo
+quién paga
+si hay libertad real
+si hay facturación
+
+👉 Esto es más importante que los fundamentos jurídicos
+
+6. 💰 Flujo económico
+
+Miro:
+
+¿facturan como autónomos?
+¿quién cobra al cliente?
+¿quién fija precios?
+7. 🧾 Seguridad Social
+
+Claves:
+
+RETA vs Régimen General
+alta o no alta
+cotizaciones
+8. ⚠️ Detección de falsos positivos (MUY IMPORTANTE)
+
+Descarto si es:
+
+trabajo ilegal (sin contrato)
+economía sumergida
+inmigración irregular
+delitos penales
+
+👉 Esto fue exactamente el caso que me enviaste
+
+9. 🧠 Fallo del juez (determinante)
+
+Busco frases como:
+
+“se declara la existencia de relación laboral”
+“no concurre dependencia”
+“relación mercantil válida”
+
+👉 Esto define la etiqueta final
+
+🎯 RESUMEN DEL PROCESO
+1. Identificar jurisdicción
+2. Buscar “autónomo / contrato mercantil”
+3. Detectar conflicto laboral vs mercantil
+4. Evaluar ajenidad + dependencia
+5. Analizar hechos probados
+6. Confirmar con el fallo
+🧠 EN TU CASO (PDF que mandaste)
+
+Yo hice esto:
+
+❌ No hay autónomos
+❌ No hay contrato mercantil
+❌ No hay discusión laboral vs mercantil
+✔ Sí hay:
+trabajo sin contrato
+trabajadores irregulares
+delito penal
+
+👉 Conclusión: no es falso autónomo
+
+
+--------------------------------------

@@ -1,0 +1,109 @@
+Listado de patrones con los que buscar en el cendoj
+🔎 1. Cadenas base (las que funcionan SIEMPRE)
+
+Estas son las que uso como punto de partida en CENDOJ:
+
+🧷 Núcleo jurídico
+"relación laboral" autónomo
+"naturaleza de la relación" laboral
+"ajenidad y dependencia"
+"existencia de relación laboral"
+🧷 Contratos encubiertos
+"contrato mercantil" laboral
+"arrendamiento de servicios" laboral
+"contrato de autónomo" laboral
+
+
+🧷 Plataformas
+Glovo relación laboral
+Deliveroo laboralidad
+rider laboralidad
+
+
+🎯 2. 15 patrones avanzados (esto es nivel experto)
+
+Estos son los que realmente marcan la diferencia:
+
+🔴 1. Núcleo doctrinal
+"concurren las notas de laboralidad"
+"no concurren las notas de laboralidad"
+
+👉 Te da positivos y negativos directamente
+
+🔴 2. Test clásico laboral
+"ajenidad" "dependencia" relación
+"subordinación" laboral
+
+🔴 3. Calificación jurídica
+"calificación de la relación"
+"verdadera naturaleza de la relación"
+
+🔴 4. Fraude y simulación
+--> fraude contratación autónomo
+simulación contrato laboral mercantil
+
+
+🔴 5. TRADE (muy potente)
+TRADE laboralidad
+"trabajador autónomo económicamente dependiente" laboral
+🔴 6. Exclusividad y dependencia económica
+dependencia económica trabajador autónomo
+"trabaja exclusivamente para"
+🔴 7. Control empresarial
+organización empresarial control trabajador
+poder dirección empresa trabajador autónomo
+🔴 8. Plataformas (clave actual)
+algoritmo control trabajador plataforma
+app asignación pedidos laboralidad
+🔴 9. Despido encubierto
+despido autónomo relación laboral
+
+👉 Muy útil: muchos casos llegan así
+
+🔴 10. Seguridad Social (oro puro)
+alta seguridad social falso autónomo
+inspección trabajo autónomo laboralidad
+🧠 3. Cómo combinarlas (esto es lo que nadie te explica)
+🥇 Estrategia 1 (rápida)
+
+Empieza con:
+
+"relación laboral" autónomo
+
+→ filtra por:
+
+Sala Social
+Tribunal Supremo / TSJ
+🥇 Estrategia 2 (precisa)
+
+Luego usa:
+
+"concurren las notas de laboralidad"
+
+👉 Esto te da directamente:
+
+sentencias bien fundamentadas
+🥇 Estrategia 3 (plataformas)
+Glovo laboralidad
+
+o
+
+rider relación laboral
+🥇 Estrategia 4 (dataset limpio)
+
+Para negativos:
+
+"no concurren las notas de laboralidad"
+
+👉 Esto es clave para entrenar modelos
+
+⚠️ 4. Errores típicos (evítalos)
+
+❌ Buscar:
+
+falso autónomo
+
+👉 casi nunca aparece en sentencias
+
+❌ No filtrar por jurisdicción
+👉 te salen penales, fiscales (como el PDF que vimos)
